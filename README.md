@@ -1,4 +1,4 @@
-## Hi there I'm Cloyd  Im currently working on IT Certs!, 3rd Career!🤓 
+## Hi there I'm Cloyd, <a href="https://www.linkedin.com/in/cloyd-orton-539a8321b">Adding IT Skills, 3rd Career!🤓 
 
 <h2>👨‍💻 Information Technology Projects:</h2> CloydOrton
 
@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CloydOrton/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CloydOrton/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CloydOrton/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/CloydOrton/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CloydOrton/azure-network-protols)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CloydOrton/azure-network-protocols)
 
