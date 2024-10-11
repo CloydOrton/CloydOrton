@@ -1,4 +1,5 @@
 ## Hi there I'm Cloyd, <a href="https://www.linkedin.com/in/cloyd-orton-539a8321b">Operations Manager | Sustainable Information Technology (IT)🤓 
+<h2>👨‍💻 Operations Management Projects:</h2> CloydOrton
 
 <h2>👨‍💻 Information Technology Projects:</h2> CloydOrton
 
