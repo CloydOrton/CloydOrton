@@ -1,11 +1,8 @@
 Cloyd Orton, PMP, LSSBB
 Operations | Program | Process Leadership (Remote & OCONUS)
 Senior operations and program leader with 20+ years managing complex, high-risk environments.
-
 Expertise across operations management, process improvement, IT-adjacent operations, and government contracts.
-
 PMP and Lean Six Sigma Black Belt with a systems-driven leadership approach.
-
 Focused on remote operations, program execution, and scalable delivery.
 <h2>👨‍💻 Operations Management Projects:</h2> CloydOrton
 
