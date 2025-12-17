@@ -1,9 +1,59 @@
 Cloyd Orton, PMP, LSSBB
 Operations | Program | Process Leadership (Remote & OCONUS)
-Senior operations and program leader with 20+ years managing complex, high-risk environments.
-Expertise across operations management, process improvement, IT-adjacent operations, and government contracts.
-PMP and Lean Six Sigma Black Belt with a systems-driven leadership approach.
-Focused on remote operations, program execution, and scalable delivery.
+# Cloyd Orton, PMP, LSSBB
+
+Senior Operations & Program Manager with 20+ years of leadership across
+government, defense, facilities, and enterprise operations. Proven expertise
+in executing complex contracts, leading distributed teams, and driving
+measurable performance improvements in high-risk and remote environments.
+
+---
+
+## Core Competencies
+
+- Operations & Program Management
+- Lean Six Sigma Process Improvement
+- KPI Development & Performance Governance
+- Remote & Distributed Team Leadership
+- Risk, Compliance & Contract Execution
+- IT-Enabled Operations (systems, reporting, tools)
+
+---
+
+## Certifications & Professional Development
+
+- Project Management Professional (PMP)
+- Lean Six Sigma Black Belt (LSSBB / CLSSBB)
+- CompTIA A+
+- ServSafe Food Protection Manager
+- HACCP Certification
+
+---
+
+## Professional Focus
+
+This GitHub portfolio highlights leadership, operations management,
+process improvement, performance governance, and operational frameworks.
+It is not a software engineering or coding portfolio.
+
+---
+
+## Career Timeline
+
+**2020–Present**  
+Professional development, certification advancement, and independent
+operations consulting support focused on process improvement, systems
+literacy, and remote operations readiness.
+
+---
+
+## Areas of Interest
+
+- Remote Operations Management
+- Program & Portfolio Execution
+- AI-Supported Operations Oversight
+- Continuous Improvement & Change Leadership
+
 <h2>👨‍💻 Operations Management Projects:</h2> CloydOrton
 
 <h2>👨‍💻 Information Technology Projects:</h2> CloydOrton
